@@ -1,5 +1,11 @@
 # Pytecimalthon
 
+![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)
+![License](https://img.shields.io/github/license/zimoshi/pyd3)
+![Version](https://img.shields.io/badge/version-1.2-informational)
+![DBR 316](https://img.shields.io/badge/DBR%20316-enforced-success)
+![Decimal Safe](https://img.shields.io/badge/float-safe-critical)
+
 **Pytecimalthon** is a custom Python runtime built to enforce **DBR 316 (Decimal Binary Rule 316)** — overriding traditional binary floating-point math with exact decimal arithmetic.
 
 > "0.1 + 0.2 = 0.3 — exactly."
