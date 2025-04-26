@@ -29,8 +29,8 @@ Requires Python 3.7+
 You can make `pyd3` a global command using [py3sh](https://github.com/zimoshi/py3sh):
 
 ```bash
-git clone https://github.com/zimoshi
-cd pytecimalthon
+git clone https://github.com/zimoshi/pyd3
+cd pyd3
 sh setup.sh
 ```
 
